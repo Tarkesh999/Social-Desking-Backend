@@ -1,0 +1,2 @@
+{dbName='KnsEz-db-grads-group-18', userName='KnsEz-group-18', password='nyzzauiigt'}
+CLOUD SQL INSTANCE ID: grad-coding-challenge-1:us-central1:db-coding-grads-v1 
